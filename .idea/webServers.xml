@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8c83254a-6c89-4b3d-8eb1-607e6a2201cf" name="capstone" url="http://cse.msu.edu/~hickmot5">
+        <fileTransfer rootFolder="/user/hickmot5/web" accessType="SFTP" host="arctic.cse.msu.edu" port="22" sshConfigId="0f4835dd-b08d-4638-aafe-267ca63e107a" sshConfig="hickmot5@arctic.cse.msu.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
